@@ -11,10 +11,10 @@ I recently got interested in understanding semantics from vision and languague b
 
 ### Publications
 
-1. Seungwhan Moon\*, **Satwik Kottur**\*, Paul A. Crook, Ankita De, 
-Shivani Poddar, Theodore Levin, David Whitney, Daniel Difranco, Ahmad Beirami, 
+1. Seungwhan Moon\*, **Satwik Kottur**\*, Paul A. Crook^, Ankita De^, 
+Shivani Poddar^, Theodore Levin, David Whitney, Daniel Difranco, Ahmad Beirami, 
 Eunjoon Cho, Rajen Subba, Alborz Geramifard  
-\* equal contribution  
+\*,^ equal contribution  
 [Situated and Interactive Multimodal Conversations]()  
 *International Conference on Computational Linguistics (COLING), 2020*  
 **Oral Presentation**  
