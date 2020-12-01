@@ -35,13 +35,29 @@ with a minor in Computer Science and Engineering
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[July 2019]</strong></td>
-        <td>Joined as a research scientist at 
-        <a href="https://research.fb.com">Facebook AI</a>, Menlo Park
+        <td valign="top"><strong>[Nov 2020]</strong></td>
+        <td>Awarded the prestigious 
+        <a href="https://www.ece.cmu.edu/student-resources/commencement-awards.html">
+        A. G. Milnes Award</a>, 2020 by ECE, Carnegie Mellon for my thesis
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[March 2019]</strong></td>
+        <td valign="top"><strong>[Oct 2020]</strong></td>
+        <td>Our paper, <a href="https://arxiv.org/abs/2006.01460">Situated and
+        Interactive Multimodal Conversations</a>,
+        has been accepted to 
+        <a href="https://coling2020.org/">COLING, 2020</a> 
+        as an <b>oral</b> presentation
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[July 2019]</strong></td>
+        <td>Joined as a research scientist at Facebook AI, Menlo Park
+        (<a href="https://ai.facebook.com/people/satwik-kottur/">Webpage</a>)
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Mar 2019]</strong></td>
         <td>Our paper, <a href="https://arxiv.org/abs/1903.03166">CLEVR-Dialog:
         A Diagnostic Dialog Dataset</a>,
         has been accepted to <a href="https://naacl2019.org">NAACL, 2019</a> as
@@ -56,15 +72,17 @@ with a minor in Computer Science and Engineering
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2018]</strong></td>
-        <td>Interning at <a href="https://ai.google/research/teams/brain">Google Brain</a> this summer, with <a href="https://ai.stanford.edu/~gal/">Gal Chechik</a> and <a href="http://bengio.abracadoudou.com/">Samy Bengio</a></td>
+        <td>Interning at <a href="https://ai.google/research/teams/brain">Google Brain</a>
+        this summer, with <a href="https://ai.stanford.edu/~gal/">Gal Chechik</a>
+        and <a href="http://bengio.abracadoudou.com/">Samy Bengio</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2017]</strong></td>
-        <td>I was awarded the inaugural <a href='https://snapresearchfellowship.splashthat.com/'>Snap Inc. Research Fellowship</a>, 2017</td>
+        <td>Awarded the inaugural <a href='https://snapresearchfellowship.splashthat.com/'>Snap Inc. Research Fellowship</a>, 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2017]</strong></td>
-        <td>I received a <a href='https://nips.cc/Conferences/2017/Awards'>Best Reviewer Award</a> at NIPS 2017</td>
+        <td>Received a <a href='https://nips.cc/Conferences/2017/Awards'>Best Reviewer Award</a> at NIPS 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sept 2017]</strong></td>
@@ -133,7 +151,7 @@ with a minor in Computer Science and Engineering
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2015]</strong></td>
-        <td>I would be interning at <a href="https://www.snapchat.com/">Snapchat</a> this summer</td>
+        <td>Interning at <a href="https://www.snapchat.com/">Snapchat</a> this summer</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2015]</strong></td>

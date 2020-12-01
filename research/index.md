@@ -11,6 +11,24 @@ I recently got interested in understanding semantics from vision and languague b
 
 ### Publications
 
+1. Seungwhan Moon\*, **Satwik Kottur**\*, Paul A. Crook, Ankita De, 
+Shivani Poddar, Theodore Levin, David Whitney, Daniel Difranco, Ahmad Beirami, 
+Eunjoon Cho, Rajen Subba, Alborz Geramifard  
+\* equal contribution  
+[Situated and Interactive Multimodal Conversations]()  
+*International Conference on Computational Linguistics (COLING), 2020*  
+**Oral Presentation**  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2006.01460)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/facebookresearch/simmc)
+[<button type="button" class="btn">Blog</button>](https://ai.facebook.com/blog/simmc-a-data-set-for-developing-next-generation-shopping-assistants/)
+
+1. Paul Pu Liang, Jeffrey Chen, Ruslan Salakhutdinov, Louis-Philippe Morency, **Satwik Kottur**  
+[On Emergent Communication in Competitive Multi-Agent Teams]()  
+*International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2020*  
+**Oral Presentation**  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/2003.01848)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/pliang279/Competitive-Emergent-Communication)
+
 1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra, 
 Marcus Rohrbach   
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog]()  
@@ -18,7 +36,8 @@ Marcus Rohrbach
 Computational Linguistics (NAACL), 2019*  
 **Oral Presentation**  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1903.03166)
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/clevr-dialog)  
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/clevr-dialog)
+[<button type="button" class="btn">Talk</button>](https://vimeo.com/360533677)  
 
 1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra, 
 Marcus Rohrbach   
