@@ -44,10 +44,12 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
             <a href="https://www.libd.org">
             <img src="/images/libd_logo.png" width="150" height="10"></a>
         </td>
-    </tr>
+    <tr>
     <tr>
         <td>Jadavpur University</td>
         <td>Johns Hopkins University</td>
         <td>Lieber Institute of Brain Development</td>
     </tr>
+    </tr>
+  </tr>
 </table>
