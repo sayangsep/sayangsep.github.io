@@ -140,11 +140,6 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
         	        </div>
         	    </div>
         </td>
-    </tr>
-</table>
-
-</body>
-</html>
 
 <html>
 <body>
