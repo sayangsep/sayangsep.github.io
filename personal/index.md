@@ -112,8 +112,7 @@ img {vertical-align: middle;}
     <col width="75%">
     <col width="40%">
     <tr>
-        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably<br> find me outside in the gym, or in the ground. I am also a frequent<br> member and Vice President of <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>.
-	</td>
+        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably<br> find me outside in the gym, or in the ground. I am<br> also a frequent member and Vice President of<br> <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>.</td>
         <td>
             <html>
         	<body>
@@ -140,17 +139,14 @@ img {vertical-align: middle;}
         	    </div>
         	    </div>
     		</body>
-	    </html> 
-	</td>
+	    </html></td>
     </tr>
 </table>
-
 <table>
     <col width="75%">
     <col width="40%">
 <tr>
-        <td valign="center"><p style="font-family:'Arial'"> I love to travel whenever I find some time.
-	</td>
+        <td valign="center"><p style="font-family:'Arial'"> I love to travel whenever I find some time.</td>
 	<td>
 <html>
     <body>
@@ -177,8 +173,7 @@ img {vertical-align: middle;}
             </div>
         </div>
     </body>
-</html> 
-	</td>
+</html></td>
 </tr>
 </table>
 
