@@ -181,36 +181,26 @@ img {vertical-align: middle;}
 </tr>
 </table>
 
-
 <script>
-            'use strict';
-           
-            function Make_a_slideshow(id){
-                var slideIndex = 0,
-                    container = document.getElementById(id);
+var slideIndex = 0;
+showSlides();
 
-                function showSlides(){
-                    var slides = container.querySelectorAll('.mySlides');
-                    for (var i = 0; i < slides.length; i++){
-                        slides[i].style.display = "none";
-                    }
-                    slideIndex++;
-                    if (slideIndex > slides.length){
-                        slideIndex = 1;
-                    }
-                    slides[slideIndex - 1].style.display = "block";
-                    setTimeout(showSlides, 2000); // Change image every 2 seconds
-                }
-                showSlides();
-            }
-           
-            //start slideshow 1
-            Make_a_slideshow('slideshow1');
-           
-            //delay 1 second before starting slideshow 2
-            setTimeout(function(){
-                Make_a_slideshow('slideshow2');
-            }, 0);
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides", "Slides2", "Slides3");
+  var dots = document.getElementsByClassName("dot", "tod", "odt");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
 </script>
 
 
