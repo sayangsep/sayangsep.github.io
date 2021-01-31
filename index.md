@@ -18,7 +18,7 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Feb 2021]</strong></td>
-        <td><a href="https://arxiv.org/abs/2101.11656">G-MIND</a> will appear as a special oral (deep dive) at <a href="https://spie.org/MI/conferencedetails/medical-image-processing#session-LIVE">SPIE 2021.</a></td>
+        <td><a href="https://arxiv.org/abs/2101.11656">G-MIND</a> will appear as a special oral (deep dive) at <a href="https://spie.org/MI/conferencedetails/medical-image-processing#session-LIVE">SPIE 2021.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
