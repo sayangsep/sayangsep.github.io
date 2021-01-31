@@ -2,7 +2,7 @@
 
 title:            
 locale:           en_US
-url: https://satwikkottur.github.io
+url: https://sayangsep.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -23,12 +23,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Satwik Kottur
-  avatar: bio-photo-3.jpg
-  position: Research Scientist
-  school: Facebook AI
-  place: Menlo Park, CA
-  bio: "Research Scientist<br/>Facebook AI&#13;&#10;Menlo Park, CA"
+  name: Sayan Ghosal
+  avatar: "sayan.jpg"
+  position: Research Assistant
+  school: Johns Hopkins University
+  place: Baltimore, U.S.A
+  bio: "Ph.D. student, Johns Hopkins University"
   email: satwik27@gmail.com
   disqus-shortname:
   twitter: #username
