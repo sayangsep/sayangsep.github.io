@@ -1,46 +1,271 @@
 ---
 layout: page
-title: Publications
 tags: [research, sayan, ghosal, Jhu, graduate]
 modified: 2020-01-08T20:53:07.573882-04:00
 comments: false
 ---
+### Personal Page
 
-## Journal Articles
-
-1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman
-<span style="color:navy">A Generative-Discriminative Framework that Integrates Imaging, Genetic, and Diagnosis into Coupled Low Dimensional Space</span>   
-*NeuroImage, 2021 ( In submission ).* 
-
-2. **Sayan Ghosal**, Nilanjan Ray
-<span style="color:navy">Deep deformable registration: Enhancing accuracy by fully convolutional neural net</span>   
-*Pattern Recognition Letters, 2017.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://doi.org/10.1016/j.patrec.2017.05.022) 
- 
 ---
 
-## Conference Publications
+<p style="font-family:'Arial'"> I'm grew up in a small town, Santiniketan, West Bengal, India. Santiniketan was lovingly modelled by Rabindranath Tagore on the principles of humanism, internationalism and a sustainable environment. I consider myself fortunate to grow up in a place that embodies Rabindranath Tagore's vision of idealism that is unfettered by religious and regional barriers. We take pride in our heritage, and we even have our own song :D
 
-1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman    
-<span style="color:navy">G-MIND: An End-to-End Multimodal Imaging-Genetics Framework for Biomarker Identification and Disease Classification</span>   
-*Proc. SPIE, Medical Imaging 2021 [[Selected for Special Oral Presentation, Deep Dive](https://spie.org/MI/conferencedetails/medical-image-processing#session-LIVE)].*   
-[<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2101.11656){:target="_blank"}  [<button type="button" class="btn btn-warning">Slides</button>](/reports/spie.pdf) 
+<html>
+<head>
+<style>
+blockquote {
+  margin-left: 20px;
+  border-left: 3px solid #eee;
+}
+</style>
+</head>
+<body>
+<blockquote>
+She is our own, the darling of our hearts, Santiniketan.<br>
+In the shadows of her trees we meet<br>
+in the freedom of her open sky.<br>
+Our dreams are rocked in her arms.<br>
+Her face is a fresh wonder of love every time we see her,<br>
+for she is our own, the darling of our hearts. –  Rabindranath Tagore
+</blockquote>
 
-1. **Sayan Ghosal**, Qiang Chen, Aaron L. Goldman, William Ulrich, Karen F. Berman, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman    
-<span style="color:navy">Bridging Imaging, Genetics, and Diagnosis in a Coupled Low- dimensional Framework</span>   
-*MICCAI, 2019 [Acceptance Rate ≈ 30%] – Early Acceptance (Top 18% of Submissions)].*   
-[<button type="button" class="btn btn-info">Paper</button>](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_71) 
-[<button type="button" class="btn btn-success">Poster</button>](/reports/miccai2019_poster.pdf){:target="_blank"} 
-
-1. **Sayan Ghosal**, Qiang Chen, Aaron L. Goldman, William Ulrich, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman      
-<span style="color:navy">A Generative-Predictive Framework to Capture Altered Brain Activity in fMRI and its Association with Genetic Risk: Application to Schizophrenia.</span>   
-*Proc. SPIE, Medical Imaging 2019.*\\
-[<button type="button" class="btn btn-info">Paper</button>](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/1094927/A-generative-predictive-framework-to-capture-altered-brain-activity-in/10.1117/12.2511220.short?SSO=1) 
-[<button type="button" class="btn btn-success">Poster</button>](/reports/spie2019_poster.pdf){:target="_blank"} 
+</body>
+</html>
 
 
-1. **S. Ghosal**, S. Banerjee, N. Tiso, E. Grisan and A. S. Chowdhury    
-<span style="color:navy">A novel non-rigid registration algorithm for zebrafish larval images</span>   
-*EMBC, 2017.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/8036827) 
-[<button type="button" class="btn btn-success">Poster</button>](/reports/EMBC2017_poster.pdf){:target="_blank"}  
+
+
+<table>
+    <col width="75%">
+
+    <col width="40%">
+    <tr>
+        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably find me<br> outside in the gym or in the ground. I am also a frequent<br> member and Vice President of <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>.<strong></strong></td>
+        <td>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #111;
+  font-size: 15px;
+  padding: 8px 8px;
+  position: bottom;
+  bottom: 1px;
+  width: 100%;
+  text-align: center;
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 5px;
+  width: 5px;
+  margin: 0 0px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1s;
+  animation-name: fade;
+  animation-duration: 1s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <img src="/images/sky.jpg" style="width:100%">
+  <div class="text"> <em>Canada, 2016</em> </div>
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/snd.jpg" style="width:100%">
+  <div class="text"> <em>San Diego, 2019</em> </div>
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/ice2.jpg" style="width:100%">
+  <div class="text"> <em>Iceland, 2020</em> </div>
+</div>
+
+</div>
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+</body>
+</html> 
+
+</td>
+    </tr>
+</table>
+
+<table>
+    <col width="75%">
+
+    <col width="40%">
+    <tr>
+        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably find me<br> outside in the gym or in the ground. I am also a frequent<br> member and Vice President of <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>.<strong></strong></td>
+        <td>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #111;
+  font-size: 15px;
+  padding: 8px 8px;
+  position: bottom;
+  bottom: 1px;
+  width: 100%;
+  text-align: center;
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 5px;
+  width: 5px;
+  margin: 0 0px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1s;
+  animation-name: fade;
+  animation-duration: 1s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <img src="/images/ice.jpg" style="width:100%">
+  <div class="text"> <em>Canada, 2016</em> </div>
+</div>
+</div>
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+</body>
+</html> 
+
+</td>
+    </tr>
+</table>
+
+
