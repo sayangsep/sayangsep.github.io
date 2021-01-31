@@ -32,79 +32,79 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
 <br>
 
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {box-sizing: border-box}
-.mySlides {display: none}
-img {vertical-align: middle;}
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            *{box-sizing: border-box}
+            .mySlides {display: none}
+            img {vertical-align: middle;}
 
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: center;
-  margin: auto;
-}
+            /* Slideshow container */
+            .slideshow-container {
+            max-width: 1000px;
+            position: center;
+            margin: auto;
+            }
 
-/* Caption text */
-.text {
-  color: #111;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: bottom;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
+            /* Caption text */
+            .text {
+            color: #111;
+            font-size: 15px;
+            padding: 8px 12px;
+            position: bottom;
+            bottom: 8px;
+            width: 100%;
+            text-align: center;
+            }
 
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
+            /* Number text (1/3 etc) */
+            .numbertext {
+            color: #f2f2f2;
+            font-size: 12px;
+            padding: 8px 12px;
+            position: absolute;
+            top: 0;
+            }
 
-/* The dots/bullets/indicators */
-.dot {
-  height: 0px;
-  width: 0px;
-  margin: 0 0px;
-  background-color: #bbb;
-  border-radius: 0%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
+            /* The dots/bullets/indicators */
+            .dot {
+            height: 0px;
+            width: 0px;
+            margin: 0 0px;
+            background-color: #bbb;
+            border-radius: 0%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+            }
 
-.active {
-  background-color: #717171;
-}
+            .active {
+            background-color: #717171;
+            }
 
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1s;
-  animation-name: fade;
-  animation-duration: 1s;
-}
+            /* Fading animation */
+            .fade {
+            -webkit-animation-name: fade;
+            -webkit-animation-duration: 1s;
+            animation-name: fade;
+            animation-duration: 1s;
+            }
 
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
+            @-webkit-keyframes fade {
+            from {opacity: .4} 
+            to {opacity: 1}
+            }
 
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
+            @keyframes fade {
+            from {opacity: .4} 
+            to {opacity: 1}
+            }
 
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .text {font-size: 11px}
-}
-</style>
-</head>
+            /* On smaller screens, decrease text size */
+            @media only screen and (max-width: 300px) {
+            .text {font-size: 11px}
+            }
+        </style>
+    </head>
 </html>
 
 <table>
