@@ -181,7 +181,7 @@ img {vertical-align: middle;}
 </tr>
 </table>
 
-</script>
+
         <script>
             'use strict';
            
