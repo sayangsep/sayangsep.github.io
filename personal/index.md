@@ -111,34 +111,34 @@ img {vertical-align: middle;}
 <table>
     <col width="75%">
     <col width="40%">
-    <tr>
+<tr>
         <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably find me<br> outside in the gym, or in the ground. I am also a frequent<br> member and Vice President of <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>.</td>
-        <td>
+<td>
 <html>
-<body>
+    <body>
+        <div class="slideshow-container" id="slideshow1">
 
-<div class="slideshow-container" id="slideshow1">
+            <div class="mySlides one">
+                <img src="/images/snd.jpg" style="width:100%">
+	        <div class="text"><em>San Diego, 2019</em></div>
+            </div>
 
-  <div class="mySlides one">
-    <img src="/images/snd.jpg" style="width:100%">
-	<div class="text"><em>San Diego, 2019</em></div>
+            <div class="mySlides one">
+                <img src="/images/sky.jpg" style="width:100%">
+                <div class="text"><em>Canada, 2016</em></div>
+            </div>
+        <div class="mySlides one">
+            <img src="/images/ice2.jpg" style="width:100%">
+            <div class="text"><em>Iceland, 2020</em></div>
+        </div>
 
-  </div>
-  <div class="mySlides one">
-    <img src="/images/sky.jpg" style="width:100%">
-	<div class="text"><em>Canada, 2016</em></div>
-  </div>
-  <div class="mySlides one">
-    <img src="/images/ice2.jpg" style="width:100%">
-<div class="text"><em>Iceland, 2020</em></div>
-  </div>
-  <div style="text-align:center">
-    <span class="dot"></span> 
-    <span class="dot"></span> 
-    <span class="dot"></span> 
-  </div>
-</div>
-</body>
+        <div style="text-align:center">
+            <span class="dot"></span> 
+            <span class="dot"></span> 
+            <span class="dot"></span> 
+        </div>
+        </div>
+    </body>
 </html> 
 </td>
 </tr>
@@ -147,35 +147,34 @@ img {vertical-align: middle;}
 <table>
     <col width="75%">
     <col width="40%">
-    <tr>
+<tr>
         <td valign="center"><p style="font-family:'Arial'"> I love to travel whenever I find some time.</td>
-        <td>
+<td>
 <html>
-<body>
-<div class="slideshow-container" id="slideshow2">
+    <body>
+        <div class="slideshow-container" id="slideshow2">
 
-  <div class="mySlides two">
-    <img src="/images/yosemite_v2.jpg" style="width:100%">
-<div class="text"><em>Yosemite, 2019</em></div>
-  </div>
+            <div class="mySlides two">
+                <img src="/images/yosemite_v2.jpg" style="width:100%">
+                <div class="text"><em>Yosemite, 2019</em></div>
+            </div>
 
-  <div class="mySlides twos">
-    <img src="/images/ice.jpg" style="width:100%">
-<div class="text"><em>Iceland, 2019</em></div>
-  </div>
+            <div class="mySlides twos">
+                <img src="/images/ice.jpg" style="width:100%">
+                <div class="text"><em>Iceland, 2019</em></div>
+            </div>
+            <div class="mySlides two">
+                <img src="/images/death_valley_v2.jpg" style="width:100%">
+                <div class="text"><em>Death Valley, 2019</em></div>
+            </div>
 
-  <div class="mySlides two">
-    <img src="/images/death_valley_v2.jpg" style="width:100%">
-<div class="text"><em>Death Valley, 2019</em></div>
-  </div>
-
-  <div style="text-align:center">
-    <span class="dot"></span> 
-    <span class="dot"></span> 
-    <span class="dot"></span> 
-  </div>
-</div>
-</body>
+            <div style="text-align:center">
+                <span class="dot"></span> 
+                <span class="dot"></span> 
+                <span class="dot"></span> 
+            </div>
+        </div>
+    </body>
 </html> 
 </td>
 </tr>
