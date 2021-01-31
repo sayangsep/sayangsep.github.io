@@ -27,6 +27,7 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
 </table>
 
 ---
+
 <h3 align="center">Affiliations</h3>
 <table align="center" class='affl-pic'>
     <tr>
@@ -48,4 +49,5 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
         <td>Johns Hopkins University</td>
         <td>Lieber Institute of Brain Development</td>
     </tr>
+
 </table>
