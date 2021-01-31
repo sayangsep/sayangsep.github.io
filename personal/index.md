@@ -1,6 +1,6 @@
 ---
 layout: page
-Title:a Little More
+Title: A Little More
 tags: [research, sayan, ghosal, Jhu, graduate]
 modified: 2020-01-08T20:53:07.573882-04:00
 comments: false
@@ -107,15 +107,16 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
     </head>
 </html>
 
+<html>
+<body>
+
 <table>
     <col width="60%">
     <col width="40%">
     <tr>
-        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably<br> find me outside in the gym, or in the ground. I am<br> also a frequent member and Vice President of<br> <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>.
-	</td>
+        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably<br> find me outside in the gym, or in the ground. I am<br> also a frequent member and Vice President of<br> <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>. 
         <td> 
-	    <html>
-        	<body>
+
         	    <div class="slideshow-container" id="slideshow1">
 
             	        <div class="mySlides one">
@@ -138,21 +139,23 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
             		    <span class="dot"></span> 
         	        </div>
         	    </div>
-    		</body>
-	    </html> 
         </td>
     </tr>
 </table>
+
+</body>
+</html>
+
+<html>
+<body>
 
 <table>
     <col width="60%">
     <col width="40%">
     <tr>
         <td valign="center"><p style="font-family:'Arial'"> I love to travel whenever I find some time.
-        </td>
 	<td>
-            <html>
-                <body>
+
                     <div class="slideshow-container" id="slideshow2">
 
                         <div class="mySlides two">
@@ -175,11 +178,13 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
                             <span class="dot"></span> 
                         </div>
                     </div>
-                </body>
-            </html>
         </td>
     </tr>
 </table>
+
+</body>
+</html>
+
 
 <html>
     <body>
