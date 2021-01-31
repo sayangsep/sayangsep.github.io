@@ -1,21 +1,19 @@
 ---
 layout: page
 title: Contact
-tags: [satwik, kottur, contact, graduate, cmu]
+tags: [sayan, ghosal, contact, graduate, jhu]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
 You can contact me at :
 
-**Satwik Kottur**  
+**Sayan Ghosal**  
 Email:  
 
-* skottur [at] andrew [dot] cmu [dot] edu
-* satwik27 [at] gmail [dot] com
+* sghosal3 [at] jhu [dot] edu
+* sayang.sep [at] gmail.com
 
 Address:  
-B10, Porter Hall,  
-5000 Forbes,  
-Carnegie Mellon University,  
-Pittsburgh, PA - 15213.  
+500, West University Parkway  
+Baltimore, MD - 21210.  

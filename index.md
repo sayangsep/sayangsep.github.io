@@ -12,7 +12,6 @@ Prior coming to JHU I graduated with First Class Honours from the Department of 
 I am deeply passionate about machine learning, artificial intelligence, human-computer interactions and its application in healthcare.
 
 ----
-
 <h3 align="center">Affiliations</h3>
 <table align="center" class='affl-pic'>
     <tr>
@@ -34,5 +33,4 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
         <td>Johns Hopkins University</td>
         <td>Lieber Institute of Brain Development</td>
     </tr>
-
 </table>
