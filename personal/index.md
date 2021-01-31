@@ -112,7 +112,7 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
 
 <table>
     <col width="60%">
-    <col width="40%">
+    <col width="30%">
     <tr>
         <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably<br> find me outside in the gym, or in the ground. I am<br> also a frequent member and Vice President of<br> <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>. 
         <td> 
@@ -146,7 +146,7 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
 
 <table>
     <col width="60%">
-    <col width="40%">
+    <col width="30%">
     <tr>
         <td valign="center"><p style="font-family:'Arial'"> I love to travel whenever I find some time.
 	<td>
