@@ -207,7 +207,7 @@ img {vertical-align: middle;}
             //delay 1 second before starting slideshow 2
             setTimeout(function(){
                 Make_a_slideshow('slideshow2');
-            }, 1000);
+            }, 0);
         </script>
     </body>
 </html>
