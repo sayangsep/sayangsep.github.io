@@ -149,8 +149,7 @@ img {vertical-align: middle;}
     <col width="40%">
     <tr>
         <td valign="center"><p style="font-family:'Arial'"> I love to travel whenever I find some time.</td>
-        <td>
-<html>
+        <td><html>
 <body>
 <div class="slideshow-container" id="slideshow2">
 
