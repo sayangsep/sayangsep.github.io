@@ -24,11 +24,13 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
         <td valign="top"><strong>[Oct 2020]</strong></td>
         <td>Awarded <a href="https://www.miccai2020.org/en/">MICCAI</a> travel grant.</td>
     </tr>
+
 </table>
 
 ---
 
 <h3 align="center">Affiliations</h3>
+
 <table align="center" class='affl-pic'>
     <tr>
         <td>
