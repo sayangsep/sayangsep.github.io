@@ -141,8 +141,7 @@ img {vertical-align: middle;}
 </body>
 </html> 
 </td>
-    </tr>
-</table>
+
 
 <table>
     <col width="75%">
@@ -178,8 +177,7 @@ img {vertical-align: middle;}
 </body>
 </html> 
 </td>
-</tr>
-</table>
+
 
 </script>
         <script>
@@ -211,6 +209,6 @@ img {vertical-align: middle;}
             setTimeout(function(){
                 Make_a_slideshow('slideshow2');
             }, 0);
-</script>
+
 
 
