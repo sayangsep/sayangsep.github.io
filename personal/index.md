@@ -1,15 +1,12 @@
 ---
 layout: page
 Title: A Little More
-tags: [research, sayan, ghosal, Jhu, graduate]
+tags: [research, sayan, ghosal, Jhu, graduate, personal]
 modified: 2020-01-08T20:53:07.573882-04:00
 comments: false
 ---
 
-### A Little More
-
-
-<p style="font-family:'Arial'"> I'm grew up in a small town, Santiniketan, India. Santiniketan was lovingly modelled by Rabindranath Tagore on the principles of humanism, internationalism and a sustainable environment. I consider myself fortunate to grow up in a place that embodies Rabindranath Tagore's vision of idealism that is unfettered by religious and regional barriers. We take pride in our heritage, and we even have our own song :D
+ I grew up in a small town, Santiniketan, India. Santiniketan was lovingly modelled by Rabindranath Tagore on the principles of humanism, internationalism and a sustainable environment. I consider myself fortunate to grow up in a place that embodies Rabindranath Tagore's vision of idealism that is unfettered by religious and regional barriers. We take pride in our heritage, and we even have our own song :D </p>
 
 <html>
 <head>
