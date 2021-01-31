@@ -30,9 +30,10 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
 </blockquote>
 </body>
 </html>
-<br>
-<html>
 
+<br>
+
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -109,7 +110,7 @@ img {vertical-align: middle;}
 </html>
 
 <table>
-    <col width="75%">
+    <col width="60%">
     <col width="40%">
     <tr>
         <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably<br> find me outside in the gym, or in the ground. I am<br> also a frequent member and Vice President of<br> <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>.</td>
@@ -118,63 +119,64 @@ img {vertical-align: middle;}
         	<body>
         	    <div class="slideshow-container" id="slideshow1">
 
-            	    <div class="mySlides one">
-                	<img src="/images/snd.jpg" style="width:100%">
-	        	<div class="text"><em>San Diego, 2019</em></div>
-            	    </div>
+            	        <div class="mySlides one">
+                	    <img src="/images/snd.jpg" style="width:100%">
+	        	    <div class="text"><em>San Diego, 2019</em></div>
+            	        </div>
 
-            	    <div class="mySlides one">
-                        <img src="/images/sky.jpg" style="width:100%">
-                        <div class="text"><em>Canada, 2016</em></div>
-            	    </div>
-        	    <div class="mySlides one">
-            	        <img src="/images/ice2.jpg" style="width:100%">
-            	        <div class="text"><em>Iceland, 2020</em></div>
-        	    </div>
+            	        <div class="mySlides one">
+                            <img src="/images/sky.jpg" style="width:100%">
+                            <div class="text"><em>Canada, 2016</em></div>
+            	        </div>
+        	        <div class="mySlides one">
+            	            <img src="/images/ice2.jpg" style="width:100%">
+            	            <div class="text"><em>Iceland, 2020</em></div>
+        	        </div>
 
-        	    <div style="text-align:center">
-            		<span class="dot"></span> 
-            		<span class="dot"></span> 
-            		<span class="dot"></span> 
-        	    </div>
+        	        <div style="text-align:center">
+            		    <span class="dot"></span> 
+            		    <span class="dot"></span> 
+            		    <span class="dot"></span> 
+        	        </div>
         	    </div>
     		</body>
 	    </html></td>
     </tr>
 </table>
+
 <table>
-    <col width="75%">
+    <col width="60%">
     <col width="40%">
-<tr>
+    <tr>
         <td valign="center"><p style="font-family:'Arial'"> I love to travel whenever I find some time.</td>
 	<td>
-<html>
-    <body>
-        <div class="slideshow-container" id="slideshow2">
+            <html>
+                <body>
+                    <div class="slideshow-container" id="slideshow2">
 
-            <div class="mySlides two">
-                <img src="/images/yosemite_v2.jpg" style="width:100%">
-                <div class="text"><em>Yosemite, 2019</em></div>
-            </div>
+                        <div class="mySlides two">
+                            <img src="/images/yosemite_v2.jpg" style="width:100%">
+                            <div class="text"><em>Yosemite, 2019</em></div>
+                        </div>
 
-            <div class="mySlides twos">
-                <img src="/images/ice.jpg" style="width:100%">
-                <div class="text"><em>Iceland, 2019</em></div>
-            </div>
-            <div class="mySlides two">
-                <img src="/images/death_valley_v2.jpg" style="width:100%">
-                <div class="text"><em>Death Valley, 2019</em></div>
-            </div>
+                        <div class="mySlides two">
+                            <img src="/images/ice.jpg" style="width:100%">
+                            <div class="text"><em>Iceland, 2019</em></div>
+                        </div>
+                        <div class="mySlides two">
+                            <img src="/images/death_valley_v2.jpg" style="width:100%">
+                            <div class="text"><em>Death Valley, 2019</em></div>
+                        </div>
 
-            <div style="text-align:center">
-                <span class="dot"></span> 
-                <span class="dot"></span> 
-                <span class="dot"></span> 
-            </div>
-        </div>
-    </body>
-</html></td>
-</tr>
+                        <div style="text-align:center">
+                            <span class="dot"></span> 
+                            <span class="dot"></span> 
+                            <span class="dot"></span> 
+                        </div>
+                    </div>
+                </body>
+            </html></td>
+    </tr>
 </table>
 
 <html>
