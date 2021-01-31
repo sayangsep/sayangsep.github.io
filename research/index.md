@@ -28,7 +28,7 @@ figcaption {
 
 <figure>
 <p class="aligncenter">
-    <img src="/images/gmind.png" alt="centered image" style="width:400%"/>
+    <img src="/images/gmind.png" alt="centered image" style="width:90%"/>
 </p>
   <figcaption>
 <head>
@@ -62,7 +62,7 @@ figcaption {
 
 <figure>
 <p class="aligncenter">
-    <img src="/images/joint.png" alt="centered image" style="width:400%"/>
+    <img src="/images/joint.png" alt="centered image" style="width:90%"/>
 </p>
   <figcaption>
 <head>
@@ -96,7 +96,7 @@ figcaption {
 
 <figure>
 <p class="aligncenter">
-    <img src="/images/joint_model.jpg" alt="centered image" style="width:400%"/>
+    <img src="/images/joint_model.jpg" alt="centered image" style="width:90%"/>
 </p>
   <figcaption>
 <head>
