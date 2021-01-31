@@ -215,5 +215,3 @@ img {vertical-align: middle;}
         </script>
     </body>
 </html>
-
-
