@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Little More<
+title: A Little More
 tags: [research, sayan, ghosal, Jhu, graduate]
 modified: 2020-01-08T20:53:07.573882-04:00
 comments: false
