@@ -114,7 +114,7 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
     <col width="60%">
     <col width="30%">
     <tr>
-        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiat. In the evening you will probably<br> find me outside in the gym, or on the field. I am<br> also a frequent member and Vice President of<br> <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>. 
+        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiast. In the evening you will probably<br> find me outside in the gym, or on the field. I am<br> also a frequent member and Vice President of<br> <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>. 
         <td> 
 
         	    <div class="slideshow-container" id="slideshow1">
