@@ -5,6 +5,15 @@ tags: [sayan, ghosal, home, JHU, machine learning, imaging-genetics, graduate]
 comments: false
 ---
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PYG3KL47EY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PYG3KL47EY');
+</script>
+
 I am a doctoral student in the [Department of Electrical and Computer Engineering](https://engineering.jhu.edu/ece/) and currently working with [Prof. Archana Venkataraman](https://engineering.jhu.edu/nsa/) in the [Malone Centre for Engineering in Healthcare](https://malonecenter.jhu.edu/). My current research interest focuses on developing machine learning tools to efficiently integrate multimodal imaging-genetics data while interpreting the underlying etiology of the disease. This is a joint collaboration work with [Lieber Institute of Brain Development](https://www.libd.org).
 
 Prior coming to JHU I graduated with First Class Honours from the Department of Electronics and Telecommunication Engineering, [Jadavpur University](http://www.jaduniv.edu.in/). During my undergrad, I was involved in a number of research projects at Jadavpur University, India and [University of Alberta](https://www.ualberta.ca/), Canada.
