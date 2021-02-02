@@ -6,6 +6,15 @@ modified: 2020-01-08T20:53:07.573882-04:00
 comments: false
 ---
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PYG3KL47EY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PYG3KL47EY');
+</script>
+
  I grew up in a small town, Santiniketan, India. Santiniketan was lovingly modelled by Rabindranath Tagore on the principles of humanism, internationalism and a sustainable environment. I consider myself fortunate to grow up in a place that embodies Rabindranath Tagore's vision of idealism that is unfettered by religious and regional barriers. We take pride in our heritage, and we even have our own song :D
 
 <html>

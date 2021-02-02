@@ -6,6 +6,15 @@ modified: 2020-01-08T20:53:07.573882-04:00
 comments: false
 ---
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PYG3KL47EY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PYG3KL47EY');
+</script>
+
 ## Journal Articles
 
 1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman

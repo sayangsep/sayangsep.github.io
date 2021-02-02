@@ -6,6 +6,15 @@ modified: 2020-01-08T20:53:07.573882-04:00
 comments: false
 ---
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PYG3KL47EY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PYG3KL47EY');
+</script>
+
  My research is focused on multi view representation learning. We try to build data modality agnostic interpretable models for biomarker selection and disease classification. My most recent research focuses on building graph based deep learning models that leverages the correlated structures shared between different data modalities (e.g. Magnetic Resonance Imaging, Genetic Data) for disease classification.
 
 # Recent Works
