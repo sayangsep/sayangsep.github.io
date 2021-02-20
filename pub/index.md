@@ -32,7 +32,7 @@ comments: false
 
 1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman    
 <span style="color:navy">G-MIND: An End-to-End Multimodal Imaging-Genetics Framework for Biomarker Identification and Disease Classification</span>   
-*Proc. SPIE, Medical Imaging 2021 [[Selected for Special Oral Presentation, Deep Dive](https://spie.org/MI/conferencedetails/medical-image-processing#session-LIVE)].*   
+*Proc. SPIE, Medical Imaging 2021 [[Selected for Special Oral Presentation, Deep Dive](https://spie.org/MI/conferencedetails/medical-image-processing#session-LIVE)] - **Best Paper Award**.*   
 [<button type="button" class="btn btn-info">Preprint</button>](https://arxiv.org/abs/2101.11656){:target="_blank"}  [<button type="button" class="btn btn-warning">Slides</button>](/reports/spie.pdf) 
 
 1. **Sayan Ghosal**, Qiang Chen, Aaron L. Goldman, William Ulrich, Karen F. Berman, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman    

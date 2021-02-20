@@ -27,6 +27,10 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Feb 2021]</strong></td>
+        <td><a href="https://arxiv.org/abs/2101.11656">G-MIND</a> received the best student paper at <a href="https://www.linkedin.com/feed/update/urn:li:activity:6768728554214563840/">SPIE 2021.</a> </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Feb 2021]</strong></td>
         <td><a href="https://arxiv.org/abs/2101.11656">G-MIND</a> will appear as a special oral (deep dive) at <a href="https://spie.org/MI/conferencedetails/medical-image-processing#session-LIVE">SPIE 2021.</a> </td>
     </tr>
     <tr>
