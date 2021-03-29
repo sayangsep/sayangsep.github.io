@@ -26,7 +26,7 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Feb 2021]</strong></td>
+        <td valign="top"><strong>[Mar 2021]</strong></td>
         <td><a href="https://arxiv.org/abs/2101.11656">G-MIND</a> got featured at <a href="https://hub.jhu.edu/2021/03/15/predict-schizophrenia-behavioral-cognitive-biomarkers/?mc_cid=11a4066450&mc_eid=11f545ee10">HUB.</a> </td>
     </tr>
     <tr>
