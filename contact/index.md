@@ -20,8 +20,8 @@ You can contact me at :
 **Sayan Ghosal**  
 Email:  
 
-* sghosal3 [at] jhu [dot] edu
-* sayang.sep [at] gmail.com
+* sghosal3@jhu.edu
+* sayang.sep@gmail.com
 
 Address:  
 500, West University Parkway  
