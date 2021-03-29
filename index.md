@@ -27,7 +27,11 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Feb 2021]</strong></td>
-        <td><a href="https://arxiv.org/abs/2101.11656">G-MIND</a> received the best student paper at <a href="https://www.linkedin.com/feed/update/urn:li:activity:6768728554214563840/">SPIE 2021.</a> </td>
+        <td><a href="https://arxiv.org/abs/2101.11656">G-MIND</a> got featured at <a href="https://hub.jhu.edu/2021/03/15/predict-schizophrenia-behavioral-cognitive-biomarkers/?mc_cid=11a4066450&mc_eid=11f545ee10">HUB.</a> </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Feb 2021]</strong></td>
+        <td><a href="https://arxiv.org/abs/2101.11656">G-MIND</a> received the best student paper at <a href="https://www.linkedin.com/feed/update/urn:li:activity:6768726253538172928/">SPIE 2021.</a> </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2021]</strong></td>
