@@ -17,9 +17,8 @@ comments: false
 
 ## Journal Articles
 
-1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman
-<span style="color:navy">A Generative-Discriminative Framework that Integrates Imaging, Genetic, and Diagnosis into Coupled Low Dimensional Space</span>   
-*NeuroImage, 2021 ( In submission ).* 
+1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, Archana Venkataraman, <span style="color:navy">A generative-discriminative framework that integrates imaging, genetic, and diagnosis into coupled low dimensional space</span>, *NeuroImage*, Volume 238, 2021. \\
+[<button type="button" class="btn btn-info">Paper</button>](https://doi.org/10.1016/j.neuroimage.2021.118200) 
 
 2. **Sayan Ghosal**, Nilanjan Ray
 <span style="color:navy">Deep deformable registration: Enhancing accuracy by fully convolutional neural net</span>   

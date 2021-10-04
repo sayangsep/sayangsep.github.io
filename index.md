@@ -25,6 +25,14 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+<tr>
+        <td valign="top"><strong>[Sep 2021]</strong></td>
+        <td>How biology can guide deep neural networks? Check out our recent work on <a href="https://www.biorxiv.org/content/10.1101/2021.05.28.446066v2.abstract">Biologically Informed Imaging Genetics.</a></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2021]</strong></td>
+        <td>I joined Siemens-Healthineers as a machine learning intern for the summer of 2021. </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[Mar 2021]</strong></td>
         <td><a href="https://arxiv.org/abs/2101.11656">G-MIND</a> got featured at <a href="https://hub.jhu.edu/2021/03/15/predict-schizophrenia-behavioral-cognitive-biomarkers/?mc_cid=11a4066450&mc_eid=11f545ee10">HUB.</a> </td>
