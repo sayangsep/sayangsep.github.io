@@ -35,7 +35,7 @@ Deformable registration of brain MRI using deep learning.</td>
 <ul style="margin: 20px;"><li> Assisted with course preparation, grading, and content delivery.</li></ul></p>
 
 <p style="font-size:1.5em;">Undergraduate Mentorship 
-<ul style="margin: 20px;"><li> Currently, mentoring a sophomore ECE-JHU under-graduate to develop the concepts of machine-learning models used in real-world applications (like, disease classification, risk score prediction) </li></ul></p>
+<ul style="margin: 20px;"><li> Currently, mentoring a ECE-JHU under-graduate student to develop the concepts of machine-learning models used in real-world applications (like, disease classification, risk score prediction) </li></ul></p>
 
 <p style="font-size:1.5em;">Mentor at HopHacks 2020 
 <ul style="margin: 20px;"><li>Advised the hackathon teams on tackling both technical and theoretical problems.</li></ul></p>
