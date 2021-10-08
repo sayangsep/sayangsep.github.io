@@ -11,7 +11,7 @@ comments: false
     <col width="25%">
     <col width="75%">
 <tr>
-        <td valign="top"><strong><img src="/images/siemens_logo.png" width="150" height="120"></strong></td>
+        <td valign="top"><strong><img src="/images/Siemens_logo.png" width="150" height="120"></strong></td>
         <td valign="middle"> <span style="font-family: Calibri; font-size:1.5em;"> Machine Learning Intern <em style="color:gray;font-size:0.75em;">[June 2021 - August 2021]</em></span><br><br>
 Cardiac Outcome Prediction from Multi-Modal Data Leveraging Prior Population Level Characteristics of the Disease</td>
     </tr>
