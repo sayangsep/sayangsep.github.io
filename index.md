@@ -27,7 +27,7 @@ I am deeply passionate about machine learning, artificial intelligence, human-co
     <col width="85%">
 <tr>
         <td valign="top"><strong>[Sep 2021]</strong></td>
-        <td>How biology can guide deep neural networks? Check out our recent work on <a href="https://www.biorxiv.org/content/10.1101/2021.05.28.446066v2.abstract">Biologically Informed Imaging Genetics.</a></td>
+        <td>How biology can guide deep neural networks? Check out our recent work on <a href="https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3">Biologically Informed End-to-end Imaging Genetics.</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[May 2021]</strong></td>
