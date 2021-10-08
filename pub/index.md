@@ -29,6 +29,11 @@ comments: false
 
 ## Conference Publications
 
+1. **Sayan Ghosal**, Giulio Pergola, Qiang Chen, Aaron Goldman, William Ulrich, Daniel R Weinberger, Archana Venkataraman  
+<span style="color:navy">A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Neuroimaging Phenotypes of Disease</span>   
+*Submitted in ICLR 2022*   
+[<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3){:target="_blank"}  
+
 1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman    
 <span style="color:navy">G-MIND: An End-to-End Multimodal Imaging-Genetics Framework for Biomarker Identification and Disease Classification</span>   
 *Proc. SPIE, Medical Imaging 2021 [[Selected for Special Oral Presentation, Deep Dive](https://spie.org/MI/conferencedetails/medical-image-processing#session-LIVE)] - **Best Paper Award**.*   

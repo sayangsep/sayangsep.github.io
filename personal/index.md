@@ -129,16 +129,16 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
         	    <div class="slideshow-container" id="slideshow1">
 
             	        <div class="mySlides one">
-                	    <img src="/images/snd.png" style="width:100%">
+                	    <img src="/images/snd_v3.png" style="width:100%">
 	        	    <div class="text"><em>San Diego, 2019</em></div>
             	        </div>
 
             	        <div class="mySlides one">
-                            <img src="/images/sky.png" style="width:100%">
+                            <img src="/images/sky_v3.png" style="width:100%">
                             <div class="text"><em>Canada, 2016</em></div>
             	        </div>
         	        <div class="mySlides one">
-            	            <img src="/images/ice2.png" style="width:100%">
+            	            <img src="/images/ice_v3.png" style="width:100%">
             	            <div class="text"><em>Iceland, 2020</em></div>
         	        </div>
 
@@ -163,16 +163,16 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
                     <div class="slideshow-container" id="slideshow2">
 
                         <div class="mySlides two">
-                            <img src="/images/yosemite_v2.png" style="width:100%">
+                            <img src="/images/yosemite_v3.png" style="width:100%">
                             <div class="text"><em>Yosemite, 2019</em></div>
                         </div>
 
                         <div class="mySlides two">
-                            <img src="/images/ice.png" style="width:100%">
+                            <img src="/images/glacier_v3.png" style="width:100%">
                             <div class="text"><em>Iceland, 2019</em></div>
                         </div>
                         <div class="mySlides two">
-                            <img src="/images/death_valley_v2.png" style="width:100%">
+                            <img src="/images/death_valley_v3.png" style="width:100%">
                             <div class="text"><em>Death Valley, 2019</em></div>
                         </div>
 

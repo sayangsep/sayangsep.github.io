@@ -20,6 +20,40 @@ comments: false
 # Recent Works
 ---
 
+### A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Neuroimaging Markers of Disease
+
+We propose a novel end-to-end framework for whole-brain and whole-genome imaging-genetics. Our genetics network uses hierarchical graph convolution and pooling operations to embed subject-level data onto a low-dimensional latent space. The hierarchical network implicitly tracks the convergence of genetic risk across well-established biological pathways, while an attention mechanism automatically identifies the salient edges of this network at the subject level. In parallel, our imaging network projects multimodal data onto a set of latent embeddings. For interpretability, we implement a Bayesian feature selection strategy to extract the discriminative imaging biomarkers; these feature weights are optimized alongside the other model parameters. We couple the imaging and genetic embeddings with a predictor network, to ensure that the learned representations are linked to phenotype. We evaluate our framework on a schizophrenia dataset that includes two functional MRI paradigms and gene scores derived from Single Nucleotide Polymorphism data. Using repeated 10-fold cross-validation, we show that our imaging-genetics fusion achieves the better classification performance than state-of-the-art baselines. In an exploratory analysis, we further show that the biomarkers identified by our model are reproducible and closely associated with deficits in schizophrenia.
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3) 
+<head>
+<style>
+figure {
+  text-align: center;
+}
+figcaption {
+  text-align: left;
+}
+</style>
+</head>
+
+<figure>
+<p class="aligncenter">
+    <img src="/images/full_model_appendix.png" alt="centered image" style="width:90%"/>
+</p>
+  <figcaption>
+<head>
+<script type="text/javascript" src="latexit.js"></script>
+<script type="text/javascript">
+LatexIT.add('p',true);
+</script>
+</head>
+<body>
+<p>Overview of the GUIDE framework. <b>Top:</b> Gene embedding using attention based hierarchical graph convolution. We also depict the unpooling operation used as a regularizer. <b>Bottom:</b> Imaging and genetics integration;   both modalities are coupled for disease classification. The variables $\{\mathbf{i}_n^1, \mathbf{i}_n^2\}$ correspond to the imaging data, and $\mathbf{g}_n$ is the genetic data. $\mathcal{E}(\cdot)$, $\mathcal{D}(\cdot)$, $\mathcal{C}(\cdot)$ are the feature extraction, model regularization, and classification operations, respectively.</p>
+</body>
+</figcaption>
+</figure>
+
+---
+
 ### G-MIND: An End-to-End Multimodal Imaging-Genetics Framework for Biomarker Identification and Disease Classification
 
 We propose a novel deep neural network architecture to integrate imaging and genetics data, as guided by diagnosis, while preserving interpretability. Our model consists of an encoder, a decoder and a classifier. The encoder learns a non-linear subspace shared between the input data modalities. The classifier and the decoder act as regularizers to ensure that the low-dimensional encoding captures predictive differences between patients and controls. We use a learnable dropout layer to extract interpretable biomarkers from the data, and our unique training strategy can easily accommodate missing data modalities across subjects. We have evaluated our model on a population study of schizophrenia that includes two functional MRI (fMRI) paradigms and Single Nucleotide Polymorphism (SNP) data. Using 10-fold cross validation, we demonstrate that our model achieves better classification accuracy than baseline methods, and that this performance generalizes to a second dataset collected at a different site. The biomarkers identified by our model are closely associated with the well-documented deficits in schizophrenia.\\
