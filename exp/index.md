@@ -13,7 +13,7 @@ comments: false
 <tr>
         <td valign="top"><strong><img src="/images/Siemens_logo.png" width="150" height="120"></strong></td>
         <td valign="middle"> <span style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;">Machine Learning Intern <em style="color:gray;font-size:0.75em;">[June 2021 - August 2021]</em></span><br><br>
-Cardiac Outcome Prediction from Multi-Modal Data Leveraging Prior Population Level Characteristics of the Disease</td>
+Cardiac Outcome Prediction from Multi-Modal Data Leveraging Prior Population Level Characteristics of the Disease <a href="https://submissions.mirasmart.com/ISMRM2022/ViewSubmissionPublic.aspx?sei=08Q38IQim">ISMRM 2022.</a> </td>
     </tr>
 </table>
 <br>

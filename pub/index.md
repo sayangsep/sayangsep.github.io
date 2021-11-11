@@ -34,6 +34,11 @@ comments: false
 *Submitted in ICLR 2022*   
 [<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3){:target="_blank"}  
 
+1. Akos Varga-Szemes, Teodora Chitiboi, U. Joseph Schoepf, Athira J Jacob, **Sayan Ghosal**, Fei Xiong, Puneet Sharma, Jonathan Aldinger, and Tilman Emrich  
+<span style="color:navy">Cine Image Based Cardiac Disease Classification Using Random Forest Classifier and Graph Based Deep Learning Approach</span>   
+*ISMRM 2022*   
+[<button type="button" class="btn btn-info">Link</button>](https://submissions.mirasmart.com/ISMRM2022/ViewSubmissionPublic.aspx?sei=08Q38IQim){:target="_blank"} 
+
 1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman    
 <span style="color:navy">G-MIND: An End-to-End Multimodal Imaging-Genetics Framework for Biomarker Identification and Disease Classification</span>   
 *Proc. SPIE, Medical Imaging 2021 [[Selected for Special Oral Presentation, Deep Dive](https://spie.org/MI/conferencedetails/medical-image-processing#session-LIVE)] - **Best Paper Award**.*   
