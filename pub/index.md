@@ -31,8 +31,9 @@ comments: false
 
 1. **Sayan Ghosal**, Giulio Pergola, Qiang Chen, Aaron Goldman, William Ulrich, Daniel R Weinberger, Archana Venkataraman  
 <span style="color:navy">A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Neuroimaging Phenotypes of Disease</span>   
-*Submitted in ICLR 2022*   
-[<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3){:target="_blank"}  
+*Accepted at ICLR 2022*   
+[<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3){:target="_blank"}  [<button type="button" class="btn btn-info">OpenReview</button>](https://openreview.net/forum?id=Lwr8We4MIxn){:target="_blank"}  
+ 
 
 1. Akos Varga-Szemes, Teodora Chitiboi, U. Joseph Schoepf, Athira J Jacob, **Sayan Ghosal**, Fei Xiong, Puneet Sharma, Jonathan Aldinger, and Tilman Emrich  
 <span style="color:navy">Cine Image Based Cardiac Disease Classification Using Random Forest Classifier and Graph Based Deep Learning Approach</span>   

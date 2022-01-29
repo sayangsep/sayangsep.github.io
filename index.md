@@ -26,6 +26,14 @@ I am passionate about merging the gap between machine learning and the scientifi
     <col width="15%">
     <col width="85%">
 <tr>
+        <td valign="top"><strong>[Jan 2022]</strong></td>
+        <td><a href="https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3">GUIDE</a> will appear at <a href="https://openreview.net/forum?id=Lwr8We4MIxn">ICLR 2022.</a> </td>
+    </tr>
+<tr>
+        <td valign="top"><strong>[Jan 2022]</strong></td>
+        <td>Selected as MINDS fellow for 2022.</td>
+    </tr>
+<tr>
         <td valign="top"><strong>[Sep 2021]</strong></td>
         <td>How biology can guide deep neural networks? Check out our recent work on <a href="https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3">Biologically Informed End-to-end Imaging Genetics.</a></td>
     </tr>
