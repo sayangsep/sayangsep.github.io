@@ -35,7 +35,7 @@ I am passionate about merging the gap between machine learning and the scientifi
     </tr>
 <tr>
         <td valign="top"><strong>[Sep 2021]</strong></td>
-        <td>How biology can guide deep neural networks? Check out our recent work on <a href="https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3">Biologically Informed End-to-end Imaging Genetics.</a></td>
+        <td>How can biology guide deep neural networks? Check out our recent work on <a href="https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3">Biologically Informed End-to-end Imaging Genetics.</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[May 2021]</strong></td>
