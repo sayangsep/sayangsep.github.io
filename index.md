@@ -14,7 +14,7 @@ comments: false
   gtag('config', 'G-PYG3KL47EY');
 </script>
 
-I am a doctoral student in the [Department of Electrical and Computer Engineering](https://engineering.jhu.edu/ece/) and currently working with [Prof. Archana Venkataraman](https://engineering.jhu.edu/nsa/) in the [Malone Centre for Engineering in Healthcare](https://malonecenter.jhu.edu/). My research involves complex, high-dimensional, and structured data analysis with an application focus on computational biology and genomics. Current contributions include novel models to embed structured data as graphs to regularize whole-brain whole-genome data for pattern detection and feature selection. This is a joint collaboration work with [Lieber Institute of Brain Development](https://www.libd.org) and [University of Virginia](https://ace.virginia.edu/).
+I am a Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://engineering.jhu.edu/ece/) and currently working with [Prof. Archana Venkataraman](https://engineering.jhu.edu/nsa/) in the [Malone Centre for Engineering in Healthcare](https://malonecenter.jhu.edu/). My research involves complex, high-dimensional, and structured data analysis with an application focus on computational biology and genomics. Current contributions include novel models to embed structured data as graphs to regularize whole-brain whole-genome data for pattern detection and feature selection. This is a joint collaboration work with [Lieber Institute of Brain Development](https://www.libd.org) and [University of Virginia](https://ace.virginia.edu/).
 
 Prior coming to JHU I graduated with First Class Honours from the Department of Electronics and Telecommunication Engineering, [Jadavpur University](http://www.jaduniv.edu.in/). During my undergrad, I was involved in a number of research projects at Jadavpur University, India and [University of Alberta](https://www.ualberta.ca/), Canada.
 I am passionate about merging the gap between machine learning and the scientific domain by fusing *a priori* scientific information about real-world datasets with data-driven approaches.
@@ -25,6 +25,10 @@ I am passionate about merging the gap between machine learning and the scientifi
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+<tr>
+        <td valign="top"><strong>[Jun 2022]</strong></td>
+        <td>I will spend the summer at <a href="https://x.company/">X, the moonshot factory</a> as AI resident.</td>
+    </tr>
 <tr>
         <td valign="top"><strong>[Jan 2022]</strong></td>
         <td><a href="https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3">GUIDE</a> will appear at <a href="https://openreview.net/forum?id=Lwr8We4MIxn">ICLR 2022.</a> </td>
