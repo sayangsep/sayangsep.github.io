@@ -17,10 +17,12 @@ comments: false
 
 ## Journal Articles
 
-1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, Archana Venkataraman, <span style="color:navy">A generative-discriminative framework that integrates imaging, genetic, and diagnosis into coupled low dimensional space</span>, *NeuroImage*, Volume 238, 2021. \\
+1. **Sayan Ghosal**, Archana Venkataraman, <span style="color:navy">BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference</span>. *[In Prep]*
+
+2. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, Archana Venkataraman, <span style="color:navy">A generative-discriminative framework that integrates imaging, genetic, and diagnosis into coupled low dimensional space</span>, *NeuroImage*, Volume 238, 2021. \\
 [<button type="button" class="btn btn-info">Paper</button>](https://doi.org/10.1016/j.neuroimage.2021.118200) 
 
-2. **Sayan Ghosal**, Nilanjan Ray
+3. **Sayan Ghosal**, Nilanjan Ray
 <span style="color:navy">Deep deformable registration: Enhancing accuracy by fully convolutional neural net</span>   
 *Pattern Recognition Letters, 2017.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://doi.org/10.1016/j.patrec.2017.05.022) 
@@ -28,6 +30,9 @@ comments: false
 ---
 
 ## Conference Publications
+
+1. <ins>Sarah Wu</ins>, Archana Venkataraman, **Sayan Ghosal**. <span style="color:navy">GIRUS-net: A Multimodal Deep Learning Model Identifying Imaging and Genetic Biomarkers Linked to Alzheimer’s Disease Severity.</span>   
+*Under review for EMBC, 2023*.  
 
 1. **Sayan Ghosal**, Giulio Pergola, Qiang Chen, Aaron Goldman, William Ulrich, Daniel R Weinberger, Archana Venkataraman  
 <span style="color:navy">A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Neuroimaging Phenotypes of Disease</span>   
@@ -38,7 +43,7 @@ comments: false
 1. Akos Varga-Szemes, Teodora Chitiboi, U. Joseph Schoepf, Athira J Jacob, **Sayan Ghosal**, Fei Xiong, Puneet Sharma, Jonathan Aldinger, and Tilman Emrich  
 <span style="color:navy">Cine Image Based Cardiac Disease Classification Using Random Forest Classifier and Graph Based Deep Learning Approach</span>   
 *ISMRM 2022*   
-[<button type="button" class="btn btn-info">Link</button>](https://submissions.mirasmart.com/ISMRM2022/ViewSubmissionPublic.aspx?sei=08Q38IQim){:target="_blank"} 
+[<button type="button" class="btn btn-info">Link</button>](https://archive.ismrm.org/2022/1662.html){:target="_blank"} 
 
 1. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, and Archana Venkataraman    
 <span style="color:navy">G-MIND: An End-to-End Multimodal Imaging-Genetics Framework for Biomarker Identification and Disease Classification</span>   

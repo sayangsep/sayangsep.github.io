@@ -123,10 +123,20 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
     <col width="60%">
     <col width="30%">
     <tr>
-        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiast. In the evening you will probably<br> find me outside in the gym, or on the field. I am<br> also a frequent member and Vice President of the<br> <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>. 
+        <td valign="center"><p style="font-family:'Arial'">I am a sports enthusiast. I am also an avid skier,<br> a black-belt at taekwondo, and a frequent member of the<br> <a href="http://www.hopkinstkd.com/home/">Hopkins Taekwondo Club</a>. 
         <td> 
 
         	    <div class="slideshow-container" id="slideshow1">
+
+			<div class="mySlides one">
+                	    <img src="/images/tkd.png" style="width:100%">
+	        	    <div class="text"><em>T. Kang Taekwondo, 2023</em></div>
+            	        </div>
+
+			<div class="mySlides one">
+                	    <img src="/images/ski.png" style="width:100%">
+	        	    <div class="text"><em>Pennsylvania, 2023</em></div>
+            	        </div>
 
             	        <div class="mySlides one">
                 	    <img src="/images/snd_v3.png" style="width:100%">
@@ -143,6 +153,8 @@ for she is our own, the darling of our hearts. –  Rabindranath Tagore
         	        </div>
 
         	        <div style="text-align:center">
+			    <span class="dot"></span> 
+			    <span class="dot"></span>
             		    <span class="dot"></span> 
             		    <span class="dot"></span> 
             		    <span class="dot"></span> 

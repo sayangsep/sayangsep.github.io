@@ -15,9 +15,43 @@ comments: false
   gtag('config', 'G-PYG3KL47EY');
 </script>
 
- My research is focused on multi view representation learning. We try to build data modality agnostic interpretable models for biomarker selection and disease classification. My most recent research focuses on building graph based deep learning models that leverages the correlated structures shared between different data modalities (e.g. Magnetic Resonance Imaging, Genetic Data) for disease classification.
+ My research is focused on multi view representation learning. We try to build data modality agnostic interpretable models for biomarker selection and disease classification. Our models aim to find the biomarkers that explain the underlying pathophysiology of the disease.
 
 # Recent Works
+---
+
+### BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference
+
+We introduce a novel framework to identify putative causal variants from GWAS summary statistics. Our approach relies on a hierarchical Bayesian model that imposes a binary concrete prior on the set of causal variants. We derive a variational algorithm for this fine-mapping problem by minimizing the KL divergence between an approximate density and the posterior probability distribution of the causal configurations. We use a binary concrete distribution as our approximation, whose unique properties allow it to be optimized using stochastic gradient descent. Correspondingly, we use a deep neural network as an inference machine to estimate the parameters of our proposal distribution. The stochastic optimization procedure allows us to simultaneously sample from the space of causal configurations. We use these samples to compute the posterior inclusion probabilities and determine credible sets for each causal variant. We conduct a detailed simulation study to quantify the performance of our framework across different numbers of causal variants and different noise paradigms, as defined by the relative genetic contributions of causal and non-causal variants. Finally, we perform a comparative analysis against two state-of-the-art baseline methods for fine-mapping. We demonstrate that our framework achieves uniformly better coverage with comparable power and set sizes. *In Prep* 
+
+<head>
+<style>
+figure {
+  text-align: center;
+}
+figcaption {
+  text-align: left;
+}
+</style>
+</head>
+
+<figure>
+<p class="aligncenter">
+    <img src="/images/full_model_beatrice.png" alt="centered image" style="width:90%"/>
+</p>
+  <figcaption>
+<head>
+<script type="text/javascript" src="latexit.js"></script>
+<script type="text/javascript">
+LatexIT.add('p',true);
+</script>
+</head>
+<body>
+<p>Overview of the BEATRICE framework.</p>
+</body>
+</figcaption>
+</figure>
+
 ---
 
 ### A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Neuroimaging Markers of Disease

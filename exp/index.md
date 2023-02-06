@@ -14,7 +14,7 @@ comments: false
         <td valign="top"><strong><img src="/images/X_logo.png" width="150" height="120"></strong></td>
         <td valign="middle"> <span style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;">AI Resident <em style="color:gray;font-size:0.75em;">[June 2022 - August 2022]</em></span><br>
 <a href="https://x.company/projects/mineral/">Team:Mineral</a><br><br>
-Conceptualized, implemented, and led one of the group's efforts in the space of sustainability, agriculture, and genomics.
+Conceptualized, implemented, and successfully combined traditional statistical models with state-of-the-art transformer models to develop tools for sustainable agriculture from genomics and time-series data.
 </td>
     </tr>
 </table>
@@ -25,7 +25,7 @@ Conceptualized, implemented, and led one of the group's efforts in the space of 
 <tr>
         <td valign="top"><strong><img src="/images/Siemens_logo.png" width="150" height="120"></strong></td>
         <td valign="middle"> <span style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;">Machine Learning Intern <em style="color:gray;font-size:0.75em;">[June 2021 - August 2021]</em></span><br><br>
-Cardiac Outcome Prediction from Multi-Modal Data Leveraging Prior Population Level Characteristics of the Disease <a href="https://submissions.mirasmart.com/ISMRM2022/ViewSubmissionPublic.aspx?sei=08Q38IQim">ISMRM 2022.</a> </td>
+Cardiac Outcome Prediction from Multi-Modal Data Leveraging Prior Population Level Characteristics of the Disease. <a href="https://archive.ismrm.org/2022/1662.html">ISMRM 2022.</a> </td>
     </tr>
 </table>
 <br>
@@ -36,21 +36,24 @@ Cardiac Outcome Prediction from Multi-Modal Data Leveraging Prior Population Lev
         <td valign="top"><strong><img src="/images/UofA_logo.jpeg" width="150" height="120"></strong></td>
         <td valign="middle"> <span style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;"> Mitacs Globalink Intern <em style="color:gray;font-size:0.75em;">[June 2016 - August 2016]</em></span><br>
 <em> Department of Computing Science, University of Alberta, Canada </em><br><br>
-Deformable registration of brain MRI using deep learning.</td>
+Implemented and published one of the early works of using deep learning
+for deformable registration of MRI brain images.</td>
     </tr>
 </table>
 <br>
 
 <h1 align="Left">Mentoring</h1>
 
-<p style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;">TA for Signals, Systems and Learning (EN.520.385)<em style="color:gray;font-size:.75em;">[Spring 2020]</em> <br>
-<ul style="margin: 20px;"><li> Assisted with course preparation, grading, and content delivery.</li></ul></p>
+<p style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;">Advising Activity (Supervision, Conceptualization, Writing, and Editing)</p>
+Sarah Wu [2021-Present]<br><br>
+Project: Imaging-genetics approaches for Alzheimer’s disease prediction.
+*Current work is under review for EMBC, 2023*.
 
-<p style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;">Undergraduate Mentorship 
-<ul style="margin: 20px;"><li> Currently, mentoring a ECE-JHU under-graduate student to develop the concepts of machine-learning models used in real-world applications (like, disease classification, risk score prediction) </li></ul></p>
+<p style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;">TA for Signals, Systems and Learning (EN.520.385)<em style="color:gray;font-size:.75em;">[Spring 2020]</em></p>
+Assisted with course preparation, grading, and content delivery.
 
-<p style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;">Mentor at HopHacks 2020 
-<ul style="margin: 20px;"><li>Advised the hackathon teams on tackling both technical and theoretical problems.</li></ul></p>
+<p style="font-family:PT Sans Narrow,sans-serif;font-size:1.5em;line-height:1.0833;font-weight:bold;">Mentor at HopHacks 2020</p>
+Advised the hackathon teams on tackling both technical and theoretical problems.
 
 <h1 align="Left">Awards</h1>
 
