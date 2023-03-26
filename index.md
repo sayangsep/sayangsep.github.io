@@ -26,9 +26,13 @@ I am passionate about merging the gap between machine learning and the scientifi
     <col width="15%">
     <col width="85%">
 <tr>
+        <td valign="top"><strong>[Mar 2023]</strong></td>
+        <td>We introduce <a href="https://www.biorxiv.org/content/10.1101/2023.03.24.534116">BEATRICE</a>, a finemapping tool to identify putative causal variants from GWAS summary data..</td>
+</tr>
+<tr>
         <td valign="top"><strong>[Jun 2022]</strong></td>
         <td>I will spend the summer at <a href="https://x.company/">X, the moonshot factory</a> as AI resident.</td>
-    </tr>
+</tr>
 <tr>
         <td valign="top"><strong>[Jan 2022]</strong></td>
         <td><a href="https://www.biorxiv.org/content/10.1101/2021.05.28.446066v3">GUIDE</a> will appear at <a href="https://openreview.net/forum?id=Lwr8We4MIxn">ICLR 2022.</a> </td>
