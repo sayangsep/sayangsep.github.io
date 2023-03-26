@@ -17,7 +17,7 @@ comments: false
 
 ## Journal Articles
 
-1. **Sayan Ghosal**, Archana Venkataraman, <span style="color:navy">BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference</span>.\\
+1. **Sayan Ghosal**, Michael C. Schatz, Archana Venkataraman, <span style="color:navy">BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference</span>.\\
 *Under review for PLOS Genetics, 2023*.\\
 [<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2023.03.24.534116){:target="_blank"}  [<button type="button" class="btn btn-info">Github</button>](https://github.com/sayangsep/Beatrice-Finemapping){:target="_blank"} 
 
