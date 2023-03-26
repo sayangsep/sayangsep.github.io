@@ -17,7 +17,10 @@ comments: false
 
 ## Journal Articles
 
-1. **Sayan Ghosal**, Archana Venkataraman, <span style="color:navy">BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference</span>. *[In Prep]*
+1. **Sayan Ghosal**, Archana Venkataraman, <span style="color:navy">BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference</span>.\\
+*Under review for PLOS Genetics, 2023*.
+[<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2023.03.24.534116){:target="_blank"}  [<button type="button" class="btn btn-info">Github</button>](https://github.com/sayangsep/Beatrice-Finemapping){:target="_blank"} 
+
 
 2. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, Archana Venkataraman, <span style="color:navy">A generative-discriminative framework that integrates imaging, genetic, and diagnosis into coupled low dimensional space</span>, *NeuroImage*, Volume 238, 2021. \\
 [<button type="button" class="btn btn-info">Paper</button>](https://doi.org/10.1016/j.neuroimage.2021.118200) 
