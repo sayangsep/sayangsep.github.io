@@ -26,6 +26,14 @@ I am passionate about merging the gap between machine learning and the scientifi
     <col width="15%">
     <col width="85%">
 <tr>
+        <td valign="top"><strong>[July 2023]</strong></td>
+        <td>Published my first <a href="https://arinex.com.au/EMBC/pdf/full-paper_254.pdf">senior author paper</a> as part of <a href="https://embc.embs.org/2023/">EMBC</a> where I played the role of independent PI.</td>
+</tr>
+<tr>
+        <td valign="top"><strong>[July 2023]</strong></td>
+        <td>Got my <a href="https://www.freepatentsonline.com/y2023/0238141.html">first patent</a> on using graph attention and convolutions for improving cardiovascular risk prediction.</td>
+</tr>
+<tr>
         <td valign="top"><strong>[May 2023]</strong></td>
         <td>Organization for Human Brain Mapping awarded $700 for noteworthy abstracts.</td>
 </tr>
