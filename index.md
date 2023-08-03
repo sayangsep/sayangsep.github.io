@@ -27,7 +27,7 @@ I am passionate about merging the gap between machine learning and the scientifi
     <col width="85%">
 <tr>
         <td valign="top"><strong>[July 2023]</strong></td>
-        <td>Published my first <a href="https://arinex.com.au/EMBC/pdf/full-paper_254.pdf">senior author paper</a> as part of <a href="https://embc.embs.org/2023/">EMBC</a> where I played the role of independent PI.</td>
+        <td>Published my first <a href="https://arinex.com.au/EMBC/pdf/full-paper_254.pdf">senior author paper</a> as part of <a href="https://embc.embs.org/2023/">EMBC</a> where I played the role of an independent PI.</td>
 </tr>
 <tr>
         <td valign="top"><strong>[July 2023]</strong></td>

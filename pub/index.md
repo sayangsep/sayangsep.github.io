@@ -16,7 +16,7 @@ comments: false
 </script>
 
 ## Patents
-**Ghosal, S.**, Jacob, A. J., Sharma, P., & Gulsun, M. A. (2023). Subpopulation Based Patient Risk Prediction Using Graph Attention Networks. US Patent App. 17/647,613.\\
+1. **Ghosal, S.**, Jacob, A. J., Sharma, P., & Gulsun, M. A. (2023). Subpopulation Based Patient Risk Prediction Using Graph Attention Networks. US Patent App. 17/647,613.\\
 [<button type="button" class="btn btn-info">Patent</button>](https://www.freepatentsonline.com/y2023/0238141.html) 
 
 ---
