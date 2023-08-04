@@ -31,7 +31,7 @@ I am passionate about merging the gap between machine learning and the scientifi
 </tr>
 <tr>
         <td valign="top"><strong>[July 2023]</strong></td>
-        <td>Got my <a href="https://www.freepatentsonline.com/y2023/0238141.html">first patent</a> on using graph attention and convolutions for improving cardiovascular risk prediction.</td>
+        <td>Our <a href="https://www.freepatentsonline.com/y2023/0238141.html">patent</a> on using graph attention and convolutions for improving cardiovascular risk prediction got published by USPTO.</td>
 </tr>
 <tr>
         <td valign="top"><strong>[May 2023]</strong></td>
