@@ -25,11 +25,11 @@ kramdown:
 owner:
   name: Sayan Ghosal
   avatar: "sayan.jpg"
-  position: Research Assistant
-  school: Johns Hopkins University
-  place: Baltimore, U.S.A
-  bio: "Ph.D. student, Johns Hopkins University"
-  email: sghosal3@jhu.edu
+  position: Computational Scientist
+  school: Broad Institute
+  place: Cambridge, U.S.A
+  bio: "Computational Scientist, Broad Institute"
+  email: ghosal@broadinstitute.org
   disqus-shortname:
   twitter: #username
   facebook:  #username

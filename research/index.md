@@ -14,11 +14,16 @@ comments: false
 
   gtag('config', 'G-PYG3KL47EY');
 </script>
-
- My research is focused on multi view representation learning. We try to build data modality agnostic interpretable models for biomarker selection and disease classification. Our models aim to find the biomarkers that explain the underlying pathophysiology of the disease.
+ My research focuses on developing novel statistical machine learning and deep learning models to decode complex, high dimensional, and structured data with a focus in computational biology and genomics. We try to build interpretable models to find the biomarkers that explain the underlying pathophysiology of the disease.
 
 # Recent Works
 ---
+
+### Motif Driven Structural Variant discovery
+
+Structural Variants (SVs) are large-scale recombination of genomic regions. These variants are often diverse, encompassing simple events like deletion and insertion and complex events like shuffling regions across different chromosomes. SVs usually account for a significant portion of genetic diversity, and they have been found to be key drivers of neuropsychiatric diseases. However, it's often difficult to discover a high-confidence set of structural variants due to the inability of heuristic-based models to find complex SV signatures. 
+
+In this work, we view the problem of SV discovery as a motif-finding problem. Our approach utilizes the graph representation of sequence alignments to find regions of genomic rearrangements. We are developing a learning-based algorithm that can discover motifs as general signatures of SVs. This learning-based method discovers new SVs while providing flexibility over heuristic-based models to identify known SVs.
 
 ### BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference
 

@@ -20,9 +20,9 @@ You can contact me at :
 **Sayan Ghosal**  
 Email:  
 
-* sghosal3@jhu.edu
+* ghosal@broadinstitute.org
 * sayang.sep@gmail.com
 
 Address:  
-3925 Beech Avenue<br>
-Baltimore, MD - 21211  
+10 Centre St<br>
+Cambridge, MA - 02139

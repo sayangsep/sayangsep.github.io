@@ -14,10 +14,8 @@ comments: false
   gtag('config', 'G-PYG3KL47EY');
 </script>
 
-I am a Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://engineering.jhu.edu/ece/) and currently working with [Prof. Archana Venkataraman](https://engineering.jhu.edu/nsa/) in the [Malone Centre for Engineering in Healthcare](https://malonecenter.jhu.edu/). My research involves complex, high-dimensional, and structured data analysis with an application focus on computational biology and genomics. Current contributions include novel models to embed structured data as graphs to regularize whole-brain whole-genome data for pattern detection and feature selection. This is a joint collaboration work with [Lieber Institute of Brain Development](https://www.libd.org) and [University of Virginia](https://ace.virginia.edu/).
 
-Prior coming to JHU I graduated with First Class Honours from the Department of Electronics and Telecommunication Engineering, [Jadavpur University](http://www.jaduniv.edu.in/). During my undergrad, I was involved in a number of research projects at Jadavpur University, India and [University of Alberta](https://www.ualberta.ca/), Canada.
-I am passionate about merging the gap between machine learning and the scientific domain by fusing *a priori* scientific information about real-world datasets with data-driven approaches.
+I am a computational scientist at [Broad Institute](https://www.broadinstitute.org/), working with [Dr. Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic) on motif-driven structural variant discovery and their association with disorders. Prior, I  finished my Ph.D. from Johns Hopkins University, where I developed novel statistical machine-learning models to parse complex interactions between genetics and brain functioning of neuropsychiatric disorders. Major contributions from my Ph.D. involve: [Bayesian models](https://www.biorxiv.org/content/10.1101/2023.03.24.534116v2) for finemapping, [graph-based deep learning models](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v4) for interpretable polygenic risk scoring, and [latent factor models](https://www.sciencedirect.com/science/article/pii/S1053811921004778?via%3Dihub) for multimodal imaging--genetics. Most of our work has been done in a collaboration with [Lieber Institute of Brain Development](https://www.libd.org) and [University of Virginia](https://ace.virginia.edu/). My long-term goals involve integrating complex statistical models with genomic knowledge to provide insight into disease mechanisms.
 
 ----
 
@@ -25,6 +23,10 @@ I am passionate about merging the gap between machine learning and the scientifi
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+<tr>
+        <td valign="top"><strong>[Oct 2023]</strong></td>
+        <td>Joined Broad Institute as computational scientist.</td>
+</tr>
 <tr>
         <td valign="top"><strong>[July 2023]</strong></td>
         <td>Published my first <a href="https://arinex.com.au/EMBC/pdf/full-paper_254.pdf">senior author paper</a> as part of <a href="https://embc.embs.org/2023/">EMBC</a> where I played the role of independent supervisor.</td>
@@ -94,14 +96,14 @@ I am passionate about merging the gap between machine learning and the scientifi
             <img src="/images/jhu_logo.png"></a>
         </td>
         <td>
-            <a href="https://www.libd.org">
-            <img src="/images/libd_logo.png" width="150" height="10"></a>
+            <a href="https://www.broadinstitute.org/">
+            <img src="/images/broad_logo.png" width="150" height="10"></a>
         </td>
     <tr>
     <tr>
         <td>Jadavpur University</td>
         <td>Johns Hopkins University</td>
-        <td>Lieber Institute of Brain Development</td>
+        <td>Broad Institute</td>
     </tr>
     </tr>
   </tr>
