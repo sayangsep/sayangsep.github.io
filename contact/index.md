@@ -20,9 +20,9 @@ You can contact me at :
 **Sayan Ghosal**  
 Email:  
 
-* ghosal@broadinstitute.org
+* sghosal@chanzuckerberg.com
 * sayang.sep@gmail.com
 
 Address:  
-10 Centre St<br>
-Cambridge, MA - 02139
+6 Avocet Drive St<br>
+Redwood City, CA - 94065

@@ -14,8 +14,7 @@ comments: false
   gtag('config', 'G-PYG3KL47EY');
 </script>
 
-
-I am a computational scientist at [Broad Institute](https://www.broadinstitute.org/), working with [Dr. Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic) on motif-driven structural variant discovery and their association with disorders. Prior, I  finished my Ph.D. from Johns Hopkins University, where I developed novel statistical machine-learning models to parse complex interactions between genetics and brain functioning of neuropsychiatric disorders. Major contributions from my Ph.D. involve: [Bayesian models](https://www.biorxiv.org/content/10.1101/2023.03.24.534116v2) for finemapping, [graph-based deep learning models](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v4) for interpretable polygenic risk scoring, and [latent factor models](https://www.sciencedirect.com/science/article/pii/S1053811921004778?via%3Dihub) for multimodal imaging--genetics. Most of our work has been done in a collaboration with [Lieber Institute of Brain Development](https://www.libd.org) and [University of Virginia](https://ace.virginia.edu/). My long-term goals involve integrating complex statistical models with genomic knowledge to provide insight into disease mechanisms.
+I am researching scientist at [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) leading some of the early efforts on understanding the effect of genetic mutations on cells as part of our virtual cell mission.  In the past I worked with [Dr. Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic) at [Broad Institute](https://www.broadinstitute.org/), on motif-driven structural variant discovery . I  finished my Ph.D. from Johns Hopkins University, where I developed novel statistical machine-learning models to parse complex interactions between genetics and brain functioning of neuropsychiatric disorders. Major contributions from my Ph.D. involve: [Bayesian models](https://www.biorxiv.org/content/10.1101/2023.03.24.534116v2) for finemapping, [graph-based deep learning models](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v4) for interpretable polygenic risk scoring, and [latent factor models](https://www.sciencedirect.com/science/article/pii/S1053811921004778?via%3Dihub) for multimodal imaging--genetics. Most of our work has been done in a collaboration with [Lieber Institute of Brain Development](https://www.libd.org) and [University of Virginia](https://ace.virginia.edu/). My long-term goals involve integrating complex statistical models with genomic knowledge to provide insight into disease mechanisms.
 
 ----
 
@@ -23,6 +22,10 @@ I am a computational scientist at [Broad Institute](https://www.broadinstitute.o
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+<tr>
+        <td valign="top"><strong>[Aug 2024]</strong></td>
+        <td>Joined CZI as AI research scientist.</td>
+</tr>
 <tr>
         <td valign="top"><strong>[Oct 2023]</strong></td>
         <td>Joined Broad Institute as computational scientist.</td>
@@ -84,7 +87,7 @@ I am a computational scientist at [Broad Institute](https://www.broadinstitute.o
 
 ---
 
-<h3 align="center">Affiliations</h3>
+<h3 align="center">Past Affiliations</h3>
 <table align="center" class='affl-pic'>
     <tr>
         <td>
