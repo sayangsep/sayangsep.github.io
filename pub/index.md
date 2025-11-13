@@ -23,7 +23,7 @@ comments: false
 
 ## Journal Articles
 
-1. **Sayan Ghosal**, Parth Kumari, Arya Boudaie, Ana Fernandez-Duque, Arjun Biddanda, Maya Kasowski, Brunilda Balliu, Anshul Kundaje, Alexis Battle, Hae Kyung Im, Jonathan K. Pritchard, Nilah M. Ioannidis, <span style="color:navy">VariantFormer: A Diploid-Aware Transformer for Personalized Gene Expression Prediction from Genetic Variation</span>.\\
+1. **Sayan Ghosal**, Youssef Barhomi, Tejaswini Ganapathi, Amy Krystosik, Lakshmi Krishnan, Sashidhar Guntury, Donghui Li, Alzheimer's Disease Neuroimaging Initiative, Francesco Paolo Casale, Theofanis Karaletsos, <span style="color:navy">VariantFormer: A Diploid-Aware Transformer for Personalized Gene Expression Prediction from Genetic Variation</span>.\\
 *bioRxiv, 2025*.\\
 [<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2025.10.31.685862v1){:target="_blank"}  [<button type="button" class="btn btn-info">Video</button>](https://youtu.be/s_IRv4sF-hU){:target="_blank"}
 
