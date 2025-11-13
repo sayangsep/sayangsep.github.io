@@ -32,7 +32,7 @@ I am a research scientist at [Chan Zuckerberg Initiative](https://chanzuckerberg
 </tr>
 <tr>
         <td valign="top"><strong>[July 2023]</strong></td>
-        <td>Published my first <a href="https://arinex.com.au/EMBC/pdf/full-paper_254.pdf">senior author paper</a> as part of <a href="https://embc.embs.org/2023/">EMBC</a> where I played the role of independent supervisor.</td>
+        <td>Published my first <a href="https://ieeexplore.ieee.org/abstract/document/10341000">senior author paper</a> as part of <a href="https://embc.embs.org/2023/">EMBC</a> where I played the role of independent supervisor.</td>
 </tr>
 <tr>
         <td valign="top"><strong>[July 2023]</strong></td>
