@@ -23,15 +23,19 @@ comments: false
 
 ## Journal Articles
 
-1. **Sayan Ghosal**, Michael C. Schatz, Archana Venkataraman, <span style="color:navy">BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference</span>.\\
+1. **Sayan Ghosal**, Parth Kumari, Arya Boudaie, Ana Fernandez-Duque, Arjun Biddanda, Maya Kasowski, Brunilda Balliu, Anshul Kundaje, Alexis Battle, Hae Kyung Im, Jonathan K. Pritchard, Nilah M. Ioannidis, <span style="color:navy">VariantFormer: A Diploid-Aware Transformer for Personalized Gene Expression Prediction from Genetic Variation</span>.\\
+*bioRxiv, 2025*.\\
+[<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2025.10.31.685862v1){:target="_blank"}  [<button type="button" class="btn btn-info">Video</button>](https://youtu.be/s_IRv4sF-hU){:target="_blank"}
+
+2. **Sayan Ghosal**, Michael C. Schatz, Archana Venkataraman, <span style="color:navy">BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference</span>.\\
 *Under review for PLOS Genetics, 2023*.\\
 [<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2023.03.24.534116){:target="_blank"}  [<button type="button" class="btn btn-info">Github</button>](https://github.com/sayangsep/Beatrice-Finemapping){:target="_blank"} 
 
 
-2. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, Archana Venkataraman, <span style="color:navy">A generative-discriminative framework that integrates imaging, genetic, and diagnosis into coupled low dimensional space</span>, *NeuroImage*, Volume 238, 2021. \\
+3. **Sayan Ghosal**, Qiang Chen, Giulio Pergola, Aaron L. Goldman, William Ulrich, Karen F. Berman, Giuseppe Blasi, Leonardo Fazio, Antonio Rampino, Alessandro Bertolino, Daniel R. Weinberger, Venkata S. Mattay, Archana Venkataraman, <span style="color:navy">A generative-discriminative framework that integrates imaging, genetic, and diagnosis into coupled low dimensional space</span>, *NeuroImage*, Volume 238, 2021. \\
 [<button type="button" class="btn btn-info">Paper</button>](https://doi.org/10.1016/j.neuroimage.2021.118200) 
 
-3. **Sayan Ghosal**, Nilanjan Ray
+4. **Sayan Ghosal**, Nilanjan Ray
 <span style="color:navy">Deep deformable registration: Enhancing accuracy by fully convolutional neural net</span>   
 *Pattern Recognition Letters, 2017.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://doi.org/10.1016/j.patrec.2017.05.022) 
