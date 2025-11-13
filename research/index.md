@@ -19,6 +19,18 @@ comments: false
 # Recent Works
 ---
 
+### VariantFormer: A Diploid-Aware Transformer for Personalized Gene Expression Prediction
+
+Accurately predicting gene expression from DNA sequence remains a central challenge in human genetics. Current sequence-based models overlook natural genetic variation across individuals, while population-based models are restricted to variants observed within specific cohorts. Here, we present VariantFormer, a 1.2-billion-parameter transformer that predicts gene-level RNA abundance directly from personalized diploid genomes. Trained on 21,004 genome–transcriptome pairs from 2,330 donors, VariantFormer achieves state-of-the-art performance across both sequence- and population-based prediction tasks, while generalizing better to out-of-distribution contexts—including somatic mutation settings in cancer cell lines—and maintaining robustness across ancestries. Beyond expression prediction, VariantFormer improves eQTL effect size estimation compared to prior methods, with notable gains for lower-frequency and ancestry-specific variants. In applications to Alzheimer's disease, VariantFormer gene embeddings prioritize likely causal genes and relevant tissue contexts, and in silico mutagenesis of known APOE alleles faithfully recovers known risk modifying effects. Together, these results establish VariantFormer as a scalable, diploid-aware framework for variant interpretation and personalized gene expression modeling across tissues and populations.
+
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.31.685862v1)
+
+<div style="text-align: center; margin: 20px 0;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s_IRv4sF-hU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
 ### Motif Driven Structural Variant discovery
 
 Structural Variants (SVs) are large-scale recombination of genomic regions. These variants are often diverse, encompassing simple events like deletion and insertion and complex events like shuffling regions across different chromosomes. SVs usually account for a significant portion of genetic diversity, and they have been found to be key drivers of neuropsychiatric diseases. However, it's often difficult to discover a high-confidence set of structural variants due to the inability of heuristic-based models to find complex SV signatures. 
