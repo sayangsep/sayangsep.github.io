@@ -25,7 +25,7 @@ comments: false
 
 1. **Sayan Ghosal**, Youssef Barhomi, Tejaswini Ganapathi, Amy Krystosik, Lakshmi Krishnan, Sashidhar Guntury, Donghui Li, Alzheimer's Disease Neuroimaging Initiative, Francesco Paolo Casale, Theofanis Karaletsos, <span style="color:navy">VariantFormer: A Diploid-Aware Transformer for Personalized Gene Expression Prediction from Genetic Variation</span>.\\
 *bioRxiv, 2025*.\\
-[<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2025.10.31.685862v1){:target="_blank"}  [<button type="button" class="btn btn-info">Video</button>](https://youtu.be/s_IRv4sF-hU){:target="_blank"}
+[<button type="button" class="btn btn-info">Preprint</button>](https://www.biorxiv.org/content/10.1101/2025.10.31.685862v1){:target="_blank"}  [<button type="button" class="btn btn-info">Video</button>](https://youtu.be/s_IRv4sF-hU){:target="_blank"}  [<button type="button" class="btn btn-info">Github</button>](https://github.com/czi-ai/variantformer){:target="_blank"}
 
 2. **Sayan Ghosal**, Michael C. Schatz, Archana Venkataraman, <span style="color:navy">BEATRICE: Bayesian Fine-mapping from Summary Data using Deep Variational Inference</span>.\\
 *Under review for PLOS Genetics, 2023*.\\
