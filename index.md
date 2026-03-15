@@ -14,7 +14,7 @@ comments: false
   gtag('config', 'G-PYG3KL47EY');
 </script>
 
-I am a research scientist at [Chan Zuckerberg Initiative](https://chanzuckerberg.com/), leading early efforts to understand how genetic mutations affect cellular function as part of the Virtual Cell mission. Previously, I worked with [Dr. Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic) at the [Broad Institute](https://www.broadinstitute.org/) on motif-driven structural variant discovery and their association with disease. I completed my Ph.D. at Johns Hopkins University, where I developed novel statistical machine-learning models to parse complex interactions between genetics and brain functioning in neuropsychiatric disorders. Major contributions from my Ph.D. include: [Bayesian models](https://www.biorxiv.org/content/10.1101/2023.03.24.534116v2) for finemapping, [graph-based deep learning models](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v4) for interpretable polygenic risk scoring, and [latent factor models](https://www.sciencedirect.com/science/article/pii/S1053811921004778?via%3Dihub) for multimodal imaging-genetics. Most of this work was conducted in collaboration with the [Lieber Institute of Brain Development](https://www.libd.org) and the [University of Virginia](https://ace.virginia.edu/). My long-term goal is to integrate complex statistical models with genomic knowledge to provide insights into disease mechanisms.
+I am a senior research scientist at [Chan Zuckerberg Initiative](https://chanzuckerberg.com/), building foundational generative models for genomics as part of the Virtual Cell mission. Previously, I worked with [Dr. Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic) at the [Broad Institute](https://www.broadinstitute.org/) on motif-driven structural variant discovery and their association with disease. I completed my Ph.D. at Johns Hopkins University, where I developed novel statistical machine-learning models to parse complex interactions between genetics and brain functioning in neuropsychiatric disorders. Major contributions from my Ph.D. include: [Bayesian models](https://www.biorxiv.org/content/10.1101/2023.03.24.534116v2) for finemapping, [graph-based deep learning models](https://www.biorxiv.org/content/10.1101/2021.05.28.446066v4) for interpretable polygenic risk scoring, and [latent factor models](https://www.sciencedirect.com/science/article/pii/S1053811921004778?via%3Dihub) for multimodal imaging-genetics. Most of this work was conducted in collaboration with the [Lieber Institute of Brain Development](https://www.libd.org) and the [University of Virginia](https://ace.virginia.edu/). My long-term goal is to integrate complex statistical models with genomic knowledge to provide insights into disease mechanisms.
 
 ----
 
@@ -22,6 +22,14 @@ I am a research scientist at [Chan Zuckerberg Initiative](https://chanzuckerberg
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+<tr>
+        <td valign="top"><strong>[Mar 2026]</strong></td>
+        <td>Promoted to Senior Research Scientist at CZI.</td>
+</tr>
+<tr>
+        <td valign="top"><strong>[Nov 2025]</strong></td>
+        <td>Released <a href="https://biohub.org/blog/variantformer-ai-gene-expression/">VariantFormer</a>, a sequence-based AI model that can capture population level effect of genetic variations into tissue-specific gene expression prediction at scale.</td>
+</tr>
 <tr>
         <td valign="top"><strong>[Aug 2024]</strong></td>
         <td>Joined CZI as AI research scientist.</td>
