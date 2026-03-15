@@ -28,7 +28,7 @@ I am a senior research scientist at [Chan Zuckerberg Initiative](https://chanzuc
 </tr>
 <tr>
         <td valign="top"><strong>[Nov 2025]</strong></td>
-        <td>Released <a href="https://biohub.org/blog/variantformer-ai-gene-expression/">VariantFormer</a>, a sequence-based AI model that can capture population level effect of genetic variations into tissue-specific gene expression prediction at scale.</td>
+        <td>Released <a href="https://biohub.org/blog/variantformer-ai-gene-expression/">VariantFormer</a>, a sequence-based AI model that can capture population level effect of genetic variations into tissue-specific gene expressions at scale.</td>
 </tr>
 <tr>
         <td valign="top"><strong>[Aug 2024]</strong></td>
